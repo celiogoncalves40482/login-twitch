@@ -110,9 +110,10 @@ input[type=text], input[type=password] {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
-.btn1:hover {
+.butao:hover {
     cursor: pointer;
     background-color: #c0c0c0;
+    transition: 0.2s;
 }
 
 .t:hover {
